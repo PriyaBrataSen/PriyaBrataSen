@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyaBrataSen
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
