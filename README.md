@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyaBrataSen
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Generative AI
 - 💞️ My Medium account: https://dawn15081.medium.com/
 - 📫 My Linkedin account: https://www.linkedin.com/in/priya-brata-sen-32a33b98/
 
